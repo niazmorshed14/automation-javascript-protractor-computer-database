@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1677412441638' stop='1677412498644'>
+    <name>Computer Database</name>
+    <title>Computer Database</title>
+    <test-cases>
+        <test-case start='1677412441638' status='passed' stop='1677412446057'>
+            <name>Computer Database CD</name>
+            <title>Computer Database CD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8544bcfd-31e5-4b42-955f-58947a1b4ed1-attachment.png' type='image/png' size='63969'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677412446057' status='passed' stop='1677412458774'>
+            <name>Add New Computer with all credentials</name>
+            <title>Add New Computer with all credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='cf4b8e31-3dd3-4714-b715-5f6ef8f803cd-attachment.png' type='image/png' size='71457'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677412458774' status='passed' stop='1677412472555'>
+            <name>going to the homepage and search existing pc</name>
+            <title>going to the homepage and search existing pc</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7b31ce00-cea9-4a28-a7a3-4c17af5be2a7-attachment.png' type='image/png' size='46249'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677412472555' status='passed' stop='1677412483462'>
+            <name>updating existing computer</name>
+            <title>updating existing computer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='83629b77-b8ea-45d5-96cc-f96947b63c96-attachment.png' type='image/png' size='72147'/>
+            </attachments>
+        </test-case>
+        <test-case start='1677412483462' status='passed' stop='1677412498643'>
+            <name>delete existing computer</name>
+            <title>delete existing computer</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7695fecf-1558-4603-9e16-6d1f423db3d2-attachment.png' type='image/png' size='71928'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
